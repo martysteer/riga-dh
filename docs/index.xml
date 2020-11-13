@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 15:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2020 16:06:59 +0000</lastBuildDate>
     
 	<atom:link href="https://martysteer.github.io/riga-dh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minicomp2</title>
+      <link>https://martysteer.github.io/riga-dh/posts/minicomp2/</link>
+      <pubDate>Fri, 13 Nov 2020 16:06:59 +0000</pubDate>
+      
+      <guid>https://martysteer.github.io/riga-dh/posts/minicomp2/</guid>
+      <description>Tip: Make the changes to the site configuration or any other file in your site while the Hugo server is running, and you will see the changes in the browser right away, though you may need to clear your cache.</description>
+    </item>
     
     <item>
       <title>Minimal Computing</title>
